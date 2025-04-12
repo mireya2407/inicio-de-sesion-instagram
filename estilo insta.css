@@ -1,0 +1,20 @@
+
+
+
+
+body {
+    background-color: #ffe4e1;
+    font-family: Arial, sans-serif;
+    ...
+  }
+  
+  body {
+    background: linear-gradient(45deg, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
